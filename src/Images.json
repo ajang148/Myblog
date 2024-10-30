@@ -1,0 +1,104 @@
+
+{ 
+"stories":[
+  {
+    "id": 1,
+    "image": "https://media.tacdn.com/media/attractions-splice-spp-360x240/07/69/03/d3.jpg",
+    "title": "Exploring the Hidden Caves of Bali",
+    "description": "Dive into the mystery of Bali’s untouched caves. Discover hidden paths and breathtaking views."
+  },
+  {
+    "id": 2,
+    "image": "https://www.beautifulworld.com/wp-content/uploads/2016/10/large-tree-amazon-rainforest.jpg",
+    "title": "My Exploration through the Amazon Rainforest",
+    "description": "Experience the wild beauty of the Amazon and learn about its incredible biodiversity."
+  },
+  {
+    "id": 3,
+    "image": "src/assets/images/storie3.webp",
+    "title": "Climbing the Heights of the Andes",
+    "description": "Challenge yourself with a trek through the Andes, where breathtaking heights meet scenic views."
+  }
+],
+
+"resources": [
+  {
+    "id": 1,
+    "image": "src/assets/images/storie1.jpg",
+    "title": "Walking  the Inca Trail",
+    "description": "Walking on a mountain trail brings a rare tranquility, as the world below fades and nature takes center stage. Each step into cooler, pine-scented air feels purposeful, grounding you in the present. The rhythmic crunch of gravel and distant bird calls create a soundtrack of solitude and awe, while every ascent offers a fresh, breathtaking view. This experience isn’t just a hike; it’s a journey to find calm, clarity, and a renewed connection to the natural world.",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "image": "src/assets/images/storie2.jpg",
+    "title": "Sky diving accross mount  Kilimanjaro",
+    "description": "Skydiving over Mount Kilimanjaro is an exhilarating experience that offers adventurers the chance to freefall over Africa’s highest peak, taking in stunning aerial views of its glaciers, craters, and expansive savannas. Originally, skydiving wasn’t allowed in this region, primarily to preserve the local ecosystem and maintain Kilimanjaro National Park’s tranquil atmosphere. However, in recent years, select operators have worked with the Tanzanian government and conservation groups to create sustainable, low-impact skydiving tours. They’ve limited the number of jumps, emphasized eco-friendly practices, and ensured that skydiving groups respect local regulations, preserving the mountain's natural beauty while offering a once-in-a-lifetime view of Kilimanjaro from above.",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "image": "src/assets/images/storie3.webp",
+    "title": "Crossing the border between South Sudan and kenya",
+    "description": "Crossing the border between Kenya and South Sudan has become significantly easier in recent years, as restrictions that once made travel challenging have been lifted. Previously, stringent security protocols and complex visa requirements limited the movement of people and goods across the border. Now, thanks to improved diplomatic relations and new agreements, travelers and businesses face fewer obstacles. Visa regulations have relaxed, and border crossing processes are streamlined, fostering trade, cultural exchange, and travel between the two countries. This change has opened up new opportunities for regional integration, economic growth, and personal connections across borders.",
+    "link": "#"
+  }
+],
+
+"placesVisited": [
+    {
+      "id": 1,
+      "image": "https://www.travelandleisure.com/thmb/KE0vV7K8Ngvc_7j-_FGx_jCUdCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-bali-lead-image-BALITG1223-101f43c88c044081a4558b737afbd094.jpg",
+      "title": "Bali, Indonesia",
+      "description": "An exotic escape to the vibrant landscapes and culture of Bali."
+    },
+    {
+      "id": 2,
+      "image": "https://travel.rakuten.com/contents/sites/contents/files/styles/max_1300x1300/public/2023-02/3-day-itinerary-kyoto_1.jpg?itok=WCRxMrYP",
+      "title": "Kyoto, Japan",
+      "description": "Explore ancient temples and stunning autumn landscapes."
+    },
+    {
+      "id": 3,
+      "image": "https://www.oliverstravels.com/blog/wp-content/uploads/2017/03/France-Travel-Guide-Olivers-Travels-1280x720.jpg",
+      "title": "Paris, France",
+      "description": "A romantic getaway to the city of lights and timeless beauty."
+    },
+    {
+      "id": 4,
+      "image": "https://www.outlooktravelmag.com/media/Seychelles-Association-Main-1536x884.webp",
+      "title": "Victoria, Seychelles",
+      "description": "A romantic getaway to the city of lights and timeless beauty."
+    },
+    {
+      "id": 5,
+      "image": "https://www.telegraph.co.uk/content/dam/Travel/Destinations/South%20America/Brazil/Brazil---travel-guide---Ipanema-beach.jpg?imwidth=680",
+      "title": "Brazil, Rio",
+      "description": "A romantic getaway to the city of lights and timeless beauty."
+    },
+    {
+      "id": 6,
+      "image": "https://www.outlooktravelmag.com/media/madagascar-business-travel-guide-1-1674832364.profileImage.2x-scaled.webp",
+      "title": "Antananarivo, Madagascar",
+      "description": "A romantic getaway to the city of lights and timeless beauty."
+    },
+    {
+      "id": 7,
+      "image": "../assets/images/place3.jpg",
+      "title": "Paris, France",
+      "description": "A romantic getaway to the city of lights and timeless beauty."
+    },
+    {
+      "id": 8,
+      "image": "../assets/images/place3.jpg",
+      "title": "Paris, France",
+      "description": "A romantic getaway to the city of lights and timeless beauty."
+    },
+    {
+      "id": 9,
+      "image": "../assets/images/place3.jpg",
+      "title": "Paris, France",
+      "description": "A romantic getaway to the city of lights and timeless beauty."
+    }
+  ]
+}
